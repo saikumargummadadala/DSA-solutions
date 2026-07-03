@@ -1,5 +1,5 @@
 class Node:
-    # This is also for basic creation of linked lists
+    # This is also for basic creation of linked lists.
     def __init__(self,data):
         self.data=data
         self.next=None

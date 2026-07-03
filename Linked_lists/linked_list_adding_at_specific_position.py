@@ -38,6 +38,7 @@ for i in li:
 l.show()
 l.add_spec(3,4)
 l.show()
+
  
  
  

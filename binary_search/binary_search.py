@@ -1,4 +1,5 @@
 class Solution:
+    #leetcode problem 
     def search(self, nums, target):
         middle=len(nums)//2
         if target==nums[middle]:

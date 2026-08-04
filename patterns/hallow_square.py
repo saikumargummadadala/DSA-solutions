@@ -6,3 +6,13 @@ for i in range(n):
         else:
             print(" ", end=" ")
     print()
+"""
+if n==5
+output:
+* * * * * 
+*       * 
+*       * 
+*       * 
+* * * * * 
+
+"""
